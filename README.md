@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jhon Esteban 👋
+
+![Me](https://i.imgur.com/cIAQyxG.png)
 
 <!--
 **JhonEsteban/JhonEsteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
