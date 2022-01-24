@@ -15,13 +15,13 @@ const stack = {
 
 
 ## Primer artículo de mi blog 📕
-[Como eliminar commits con git reset](https://dev.to/jhonesteban/como-eliminar-commits-con-git-reset-l7d)
+### 👉 [Como eliminar commits con git reset](https://dev.to/jhonesteban/como-eliminar-commits-con-git-reset-l7d) 👈
 
-## Puedes encontrarme también por aquí: 👇
+## Puedes encontrarme también por aquí 👇🤖
 
-- [LinkedIn](https://www.linkedin.com/in/jhon-esteban-herrera)
-- [Mi Web](https://jhon-esteban-herrera.vercel.app/#/about-me)
-- [Blog](https://dev.to/jhonesteban)
+### 🙋‍♂️ [LinkedIn](https://www.linkedin.com/in/jhon-esteban-herrera) 
+### 💼 [Mi Web](https://jhon-esteban-herrera.vercel.app/#/about-me) 
+### ✏ [Blog](https://dev.to/jhonesteban) 
 
 
 
