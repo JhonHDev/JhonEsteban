@@ -17,6 +17,10 @@ const stack = {
 ## Primer artículo de mi blog 📕
 ### 👉 [Como eliminar commits con git reset](https://dev.to/jhonesteban/como-eliminar-commits-con-git-reset-l7d) 👈
 
+<a href="https://dev.to/jhonesteban/como-eliminar-commits-con-git-reset-l7d" target='_blank' rel='noreferrer'>
+  <img src="https://i.imgur.com/doMMsMW.png" width="400"/>
+</a>
+
 ## Puedes encontrarme también por aquí 👇🤖
 
 ### 🙋‍♂️ [LinkedIn](https://www.linkedin.com/in/jhon-esteban-herrera) 
