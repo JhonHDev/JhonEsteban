@@ -6,10 +6,11 @@
 
 ```javascript
 const stack = {
-  code: ['HTML5', 'CSS3', 'Sass', 'JavaScript'],
+  code: ['HTML5', 'CSS3', 'Sass', 'JavaScript', 'TypeScript'],
+  frameworks: ['Angular'],
   libraries: ['React', 'React Router Dom', 'Redux', 'Styled Components'],
   versionControl: ['Git', 'GitHub'],
-  learning: ['TypeScript', 'Jest']
+  learning: ['Jest', 'Testing Library']
 }
 ```
 
