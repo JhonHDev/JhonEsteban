@@ -6,10 +6,15 @@
 
 ```javascript
 const stack = {
-  code: ['HTML5', 'CSS3', 'Sass', 'JavaScript', 'TypeScript'],
-  frameworks: ['Angular'],
-  libraries: ['React', 'React Router Dom', 'Redux', 'Styled Components'],
-  versionControl: ['Git', 'GitHub'],
+  frontend: {
+    code: ['HTML5', 'CSS3', 'Sass', 'JavaScript', 'TypeScript'],
+    libraries: ['React', 'React Router Dom', 'Redux', 'Styled Components'],
+  },
+  backend: {
+    code: ['Node.js', 'MongoDB', 'Express', 'TypeScript'],
+    libraries: ['Mongoose', 'Jsonwebtoken', 'Bcryptjs', 'Express-validator'],
+  },
+  versionControl: ['Git'],
   learning: ['Jest', 'Testing Library']
 }
 ```
