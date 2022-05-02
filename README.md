@@ -1,6 +1,6 @@
 # ¡Hola!, mi nombre es Jhon Esteban 😀👋
 
-![Me](https://i.imgur.com/4UjmATB.png)
+![](https://i.imgur.com/E5ttuTn.png)
 
 ## Stack 💻🛠
 
