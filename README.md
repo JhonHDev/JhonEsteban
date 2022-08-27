@@ -9,13 +9,16 @@ const stack = {
   frontend: {
     code: ['HTML5', 'CSS3', 'Sass', 'JavaScript', 'TypeScript'],
     libraries: ['React', 'React Router Dom', 'Redux', 'Styled Components'],
+    mobile: { 
+      code: 'React Native'
+    }
   },
   backend: {
     code: ['Node.js', 'MongoDB', 'Express', 'TypeScript'],
     libraries: ['Mongoose', 'Jsonwebtoken', 'Bcryptjs', 'Express-validator'],
   },
   versionControl: ['Git'],
-  learning: ['Jest', 'Testing Library']
+  learning: ['Jest', 'Testing Library', 'next.js']
 }
 ```
 
