@@ -8,7 +8,7 @@
 const stack = {
   frontend: {
     code: ['HTML5', 'CSS3', 'Sass', 'JavaScript', 'TypeScript'],
-    libraries: ['React', 'React Router Dom', 'Redux', 'Styled Components'],
+    libraries: ['Next', 'React', 'React Router Dom', 'Redux', 'Styled Components'],
     mobile: { 
       code: 'React Native'
     }
@@ -18,7 +18,7 @@ const stack = {
     libraries: ['Mongoose', 'Jsonwebtoken', 'Bcryptjs', 'Express-validator'],
   },
   versionControl: ['Git'],
-  learning: ['Jest', 'Testing Library', 'next.js']
+  learning: ['Jest', 'Testing Library']
 }
 ```
 
